@@ -1,5 +1,3 @@
-# Toy CEX - Centralized Exchange Implementation
-
 A Rust-based implementation of a centralized exchange with order book management and matching engine, designed for learning high-performance systems programming.
 
 ## Performance
